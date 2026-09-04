@@ -31,6 +31,12 @@ I do not just use open-source tools; I build and fix their core engines. I activ
 
 *   **[Google MCP Toolbox - PR #3506 & #3660](https://github.com/googleapis/mcp-toolbox/pull/3506)**
     *   **What I Solved:** Engineered policy-based automatic PII detection and optimized row serialization/JSON parsing for Google's MCP toolbox, improving data security and throughput for enterprise data pipelines.
+*   **[LangChain - PR #1590](https://github.com/langchain-ai/langchain-google/pull/1590)**
+    *   **What I Solved:** Engineered model-aware token management for `ChatAnthropicVertex` inside LangChain's Google Vertex AI integration, preventing truncation errors in production LLM pipelines.
+*   **[Pydantic AI - PR #4276](https://github.com/pydantic/pydantic-ai/pull/4276)**
+    *   **What I Solved:** Resolved a critical state-management flaw by fixing stale client references in model and embedding classes, ensuring reliable execution for AI validation pipelines.
+*   **[AutoGPT - PR #12089](https://github.com/Significant-Gravitas/AutoGPT/pull/12089)**
+    *   **What I Solved:** Built graceful degradation for vector search fallbacks when `pgvector` database types are unavailable, drastically improving the resilience of autonomous agent memory.
 *   **[TensorFlow Core (Merged) - PR #123489 & #123491](https://github.com/tensorflow/tensorflow/pull/123489)** 
     *   **What I Solved:** Fixed critical memory and caching bugs in TensorFlow's C++ core (`IteratorRandomAccessCache::Get`). I resolved an unguarded vector resize and a signed-to-unsigned conversion bug that caused silent failures and performance degradation during data loading.
 *   **[Keras - PR #23552](https://github.com/keras-team/keras/pull/23552)**
