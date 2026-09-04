@@ -50,7 +50,7 @@ I do not just use open-source tools; I build and fix their core engines. Here ar
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeven-Seru&show_icons=true&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Deeven's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Deeven-Seru&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff" alt="Deeven's GitHub Stats" />
 </p>
 
 <p align="center">
