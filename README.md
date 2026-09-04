@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Deeven Seru</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Data+Science+Student;Deep+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Data+Science+Student+@+IIT+Madras;Deep+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-astronaut.svg" width="20" height="20"> About Me
 
-I am a **Bachelors Student in Data Science** based in Vijayawada, focused on pushing the boundaries of machine learning and artificial intelligence. My work heavily revolves around deep learning architectures, data-driven solutions, and contributing to the core infrastructure of the biggest ML frameworks in the world.
+I am a **Data Science Student at IIT Madras**, focused on pushing the boundaries of machine learning and artificial intelligence. My work heavily revolves around deep learning architectures, data-driven solutions, and contributing to the core infrastructure of the biggest ML frameworks in the world.
 
 - I am currently working on advanced projects involving **TensorFlow**, **Keras**, and Generative AI.
 - Exploring the bleeding edge of **Deep Learning** and neural networks.
@@ -27,8 +27,10 @@ I am a **Bachelors Student in Data Science** based in Vijayawada, focused on pus
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="20" height="20"> Top Open Source Contributions
 
-I do not just use open-source tools; I build and fix their core engines. Here are some of my top Pull Requests:
+I do not just use open-source tools; I build and fix their core engines. I actively contribute to ecosystems like **Google**, **LangChain (`langchain-ai`)**, **Pydantic**, and **AutoGPT**. Here are some of my top Pull Requests:
 
+*   **[Google MCP Toolbox - PR #3506 & #3660](https://github.com/googleapis/mcp-toolbox/pull/3506)**
+    *   **What I Solved:** Engineered policy-based automatic PII detection and optimized row serialization/JSON parsing for Google's MCP toolbox, improving data security and throughput for enterprise data pipelines.
 *   **[TensorFlow Core (Merged) - PR #123489 & #123491](https://github.com/tensorflow/tensorflow/pull/123489)** 
     *   **What I Solved:** Fixed critical memory and caching bugs in TensorFlow's C++ core (`IteratorRandomAccessCache::Get`). I resolved an unguarded vector resize and a signed-to-unsigned conversion bug that caused silent failures and performance degradation during data loading.
 *   **[Keras - PR #23552](https://github.com/keras-team/keras/pull/23552)**
