@@ -40,6 +40,22 @@ I do not just use open-source tools; I build and fix their core engines. Here ar
 
 ---
 
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/rocket.svg" width="20" height="20"> Featured Projects
+
+I design solutions for everything from enterprise cloud architecture to aerospace optics. Here is what I am building:
+
+*   **[Project Radius](https://github.com/Deeven-Seru/project-radius)**
+    *   **Focus:** High-Performance Adaptive Optics C-Engine for Shack-Hartmann Wavefront Sensing (*ISRO Compliant*).
+    *   **Impact:** Aerospace-grade optics engineering. Demonstrates the intersection of advanced physics, sensor processing, and high-performance computing.
+*   **[CoT Rationalization Forensics](https://github.com/Deeven-Seru/cot-rationalization-forensics)**
+    *   **Focus:** Chain-of-Thought (CoT) alignment and rationalization for Large Language Models.
+    *   **Impact:** Pushing the boundaries of AI interpretability, reasoning tracing, and alignment in modern generative models.
+*   **[Spanner Vertex Search](https://github.com/Deeven-Seru/spanner-vertex-search)**
+    *   **Focus:** Enterprise search architecture utilizing Google Cloud Spanner and Vertex AI.
+    *   **Impact:** Highly scalable, AI-driven vector search implementation leveraging enterprise cloud infrastructure.
+
+---
+
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Tech Stack
 
 <p align="left">
