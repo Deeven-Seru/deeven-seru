@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Deeven Seru <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Deeven Seru</h1>
 
 <h3 align="center">Data Science | Deep Learning | AI | OSS Contributor</h3>
 
@@ -8,20 +8,20 @@
 
 ---
 
-### 📊 About Me
+### About Me
 
 I am a **Bachelors Student in Data Science** based in Vijayawada, focused on pushing the boundaries of machine learning and artificial intelligence. My work heavily revolves around deep learning architectures, data-driven solutions, and contributing to the core infrastructure of the biggest ML frameworks in the world.
 
-- 🔭 I’m currently working on advanced projects involving **TensorFlow**, **Keras**, and Generative AI.
-- 🎓 Exploring the bleeding edge of **Deep Learning** and neural networks.
-- 💬 Ask me about: **Python, C++, Machine Learning, GPU Compilers, and AI models.**
-- 🌐 Portfolio / Website: [g.dev/serudeeven](https://g.dev/serudeeven)
+- I am currently working on advanced projects involving **TensorFlow**, **Keras**, and Generative AI.
+- Exploring the bleeding edge of **Deep Learning** and neural networks.
+- Ask me about: **Python, C++, Machine Learning, GPU Compilers, and AI models.**
+- Portfolio / Website: [deeven.me](https://deeven.me)
 
 ---
 
-### 🏆 Top Open Source Contributions
+### Top Open Source Contributions
 
-I don't just use open-source tools; I build and fix their core engines. Here are some of my top Pull Requests:
+I do not just use open-source tools; I build and fix their core engines. Here are some of my top Pull Requests:
 
 *   **[TensorFlow Core (Merged) - PR #123489 & #123491](https://github.com/tensorflow/tensorflow/pull/123489)** 
     *   **What I Solved:** Fixed critical memory and caching bugs in TensorFlow's C++ core (`IteratorRandomAccessCache::Get`). I resolved an unguarded vector resize and a signed-to-unsigned conversion bug that caused silent failures and performance degradation during data loading.
@@ -34,30 +34,28 @@ I don't just use open-source tools; I build and fix their core engines. Here are
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
 </p>
 
 ---
 
-### 📈 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deeven-Seru&show_icons=true&theme=tokyonight&hide_border=true&title_color=3382ed" alt="Deeven's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deeven-Seru&show_icons=true&bg_color=000000&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700&hide_border=false" alt="Deeven's GitHub Stats" />
 </p>
 
 <p align="center">
   <b>My Contribution Graph (Eating the data, one commit at a time):</b><br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deeven-Seru/deeven-seru/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deeven-Seru/deeven-seru/output/github-snake.svg">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Deeven-Seru/deeven-seru/output/github-snake.svg">
   </picture>
 </p>
