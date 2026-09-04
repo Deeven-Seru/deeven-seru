@@ -1,25 +1,31 @@
 <h1 align="center">Hi, I'm Deeven Seru</h1>
 
-<h3 align="center">Data Science | Deep Learning | AI | OSS Contributor</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Data+Science+Student;Deep+Learning+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <i>"I don't play the odds. I play the data."</i>
 </p>
 
+<p align="center">
+  <a href="https://deeven.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700" /></a>
+  <a href="https://github.com/Deeven-Seru"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+</p>
+
 ---
 
-### About Me
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user-astronaut.svg" width="20" height="20"> About Me
 
 I am a **Bachelors Student in Data Science** based in Vijayawada, focused on pushing the boundaries of machine learning and artificial intelligence. My work heavily revolves around deep learning architectures, data-driven solutions, and contributing to the core infrastructure of the biggest ML frameworks in the world.
 
 - I am currently working on advanced projects involving **TensorFlow**, **Keras**, and Generative AI.
 - Exploring the bleeding edge of **Deep Learning** and neural networks.
 - Ask me about: **Python, C++, Machine Learning, GPU Compilers, and AI models.**
-- Portfolio / Website: [deeven.me](https://deeven.me)
 
 ---
 
-### Top Open Source Contributions
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code-branch.svg" width="20" height="20"> Top Open Source Contributions
 
 I do not just use open-source tools; I build and fix their core engines. Here are some of my top Pull Requests:
 
@@ -34,7 +40,7 @@ I do not just use open-source tools; I build and fix their core engines. Here ar
 
 ---
 
-### Tech Stack
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
@@ -43,11 +49,15 @@ I do not just use open-source tools; I build and fix their core engines. Here ar
   <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=Keras&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFD700" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700" />
 </p>
 
 ---
 
-### GitHub Stats & Activity
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> GitHub Stats & Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Deeven-Seru&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=ffffff&currStreakLabel=FFD700&sideLabels=ffffff&dates=ffffff" alt="Deeven's GitHub Stats" />
